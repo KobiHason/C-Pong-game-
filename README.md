@@ -5,7 +5,7 @@
 
 
 ## ScreenShot 
-![ScreenShot](https://github.com/KobiHason/Web-image-Landing-page/blob/master/img/ScreenShot.PNG)
+![ScreenShot](https://github.com/KobiHason/Cpp-pong-game/blob/master/img/ScreenShot.PNG)
 
 
 
