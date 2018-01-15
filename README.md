@@ -1,11 +1,15 @@
-# Cpp-pong-game
+# C++  Pong-game 
 
+Red cube   = 3 hits
 
+Yello cube = 2 hits 
+
+blue cube  = 1 hit 
 
 
 
 ## ScreenShot 
-![ScreenShot](https://github.com/KobiHason/Cpp-pong-game/blob/master/img/ScreenShot.PNG)
+![ScreenShot](https://github.com/KobiHason/Cpp-pong-game/blob/master/ScreenShot.PNG)
 
 
 
